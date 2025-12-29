@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Movie Recommendation System
+# Movie Recommendation System (Content-based Machine Learning)
 
 ![Movie Recommender System Demo](assets/demo_screenshot.png)
 
